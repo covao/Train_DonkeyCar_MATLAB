@@ -11,5 +11,5 @@ websave('train_donkeycar_dl_model.mlx','https://github.com/covao/Train_DonkeyCar
 open('train_donkeycar_dl_model.mlx');
 
 ```
-Download MATLAB live script file [train_donkeycar_dl_model.mlx](https://github.com/covao/Train_DonkeyCar_MATLAB/raw/main/train_donkeycar_dl_model.mlx)  
+MATLAB live script file [train_donkeycar_dl_model.mlx](https://github.com/covao/Train_DonkeyCar_MATLAB/raw/main/train_donkeycar_dl_model.mlx)  
 
