@@ -3,7 +3,7 @@
 
 Sample code to load the DonkeyCar training dataset and try training a deep learning model.
 
-## MATLAB command to download and open the demo
+## MATLAB command to download and open the demo (MATLAB live script)
 ```
 mkdir('./donkecay_demo');
 cd('./donkecay_demo');
@@ -11,4 +11,5 @@ websave('train_donkeycar_dl_model.mlx','https://github.com/covao/Train_DonkeyCar
 open('train_donkeycar_dl_model.mlx');
 
 ```
+Download MATLAB live script file [train_donkeycar_dl_model.mlx](https://github.com/covao/Train_DonkeyCar_MATLAB/raw/main/train_donkeycar_dl_model.mlx)  
 
